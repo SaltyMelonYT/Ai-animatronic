@@ -1,0 +1,6 @@
+opencv-python
+numpy
+requests
+SpeechRecognition
+pyttsx3
+pocketsphinx
