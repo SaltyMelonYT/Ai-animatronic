@@ -6,3 +6,4 @@ As of now the AI can **somewhat** see and understand its surroundings.
 * STT and TTS
 * Communication between vision and communication (llava --> Llama)
 * Less AI generated code as this is far to advanced for me
+* Personality
