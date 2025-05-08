@@ -7,3 +7,4 @@ As of now the AI can **somewhat** see and understand its surroundings.
 * Communication between vision and communication (llava --> Llama)
 * Less AI generated code as this is far to advanced for me
 * Personality
+* Memory (If the AI server is shutdown, it can look back at its memories for context) As well as the ability to write memories on its own
