@@ -6,7 +6,7 @@ As of now the AI can **somewhat** see and understand its surroundings.
 
 # Needed models (As of now, these are tested with, but other models should work just fine)
 * [llava](https://ollama.com/library/llava) (vision)
-* [Deepseek-r1:1.5b](https://ollama.com/library/deepseek-r1) (Chat agent, different models with more parameters should be just fine)
+* [Deepseek-r1:1.5b](https://ollama.com/library/deepseek-r1:1.5b) (Chat agent, different models with more parameters should be just fine)
 
 # Achieved
 * Vision (kind of)
