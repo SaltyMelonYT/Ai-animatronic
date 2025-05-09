@@ -8,7 +8,7 @@ As of now the AI can **somewhat** see and understand its surroundings.
 * [llava](https://ollama.com/library/llava) (vision)
 * [Deepseek-r1:1.5b](https://ollama.com/library/deepseek-r1) (Chat agent, different models with more parameters should be just fine)
 
-#Achieved
+# Achieved
 * Vision (kind of)
 
 # Needed
